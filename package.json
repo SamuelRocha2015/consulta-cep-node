@@ -9,7 +9,7 @@
   "author": "Samuel Rocha",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.2",
+    "express": "^4.18.2",
     "lodash": "^4.17.2",
     "request-promise": "^2.0.1",
     "sync-request": "^3.0.0"
